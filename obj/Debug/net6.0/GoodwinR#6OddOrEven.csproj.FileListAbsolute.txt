@@ -1,0 +1,15 @@
+C:\Users\rsgoo\Desktop\Codestack\LevelOne\Homework\GoodwinR#6OddOrEven\bin\Debug\net6.0\GoodwinR#6OddOrEven.exe
+C:\Users\rsgoo\Desktop\Codestack\LevelOne\Homework\GoodwinR#6OddOrEven\bin\Debug\net6.0\GoodwinR#6OddOrEven.deps.json
+C:\Users\rsgoo\Desktop\Codestack\LevelOne\Homework\GoodwinR#6OddOrEven\bin\Debug\net6.0\GoodwinR#6OddOrEven.runtimeconfig.json
+C:\Users\rsgoo\Desktop\Codestack\LevelOne\Homework\GoodwinR#6OddOrEven\bin\Debug\net6.0\GoodwinR#6OddOrEven.dll
+C:\Users\rsgoo\Desktop\Codestack\LevelOne\Homework\GoodwinR#6OddOrEven\bin\Debug\net6.0\GoodwinR#6OddOrEven.pdb
+C:\Users\rsgoo\Desktop\Codestack\LevelOne\Homework\GoodwinR#6OddOrEven\obj\Debug\net6.0\GoodwinR#6OddOrEven.csproj.AssemblyReference.cache
+C:\Users\rsgoo\Desktop\Codestack\LevelOne\Homework\GoodwinR#6OddOrEven\obj\Debug\net6.0\GoodwinR#6OddOrEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsgoo\Desktop\Codestack\LevelOne\Homework\GoodwinR#6OddOrEven\obj\Debug\net6.0\GoodwinR#6OddOrEven.AssemblyInfoInputs.cache
+C:\Users\rsgoo\Desktop\Codestack\LevelOne\Homework\GoodwinR#6OddOrEven\obj\Debug\net6.0\GoodwinR#6OddOrEven.AssemblyInfo.cs
+C:\Users\rsgoo\Desktop\Codestack\LevelOne\Homework\GoodwinR#6OddOrEven\obj\Debug\net6.0\GoodwinR#6OddOrEven.csproj.CoreCompileInputs.cache
+C:\Users\rsgoo\Desktop\Codestack\LevelOne\Homework\GoodwinR#6OddOrEven\obj\Debug\net6.0\GoodwinR#6OddOrEven.dll
+C:\Users\rsgoo\Desktop\Codestack\LevelOne\Homework\GoodwinR#6OddOrEven\obj\Debug\net6.0\refint\GoodwinR#6OddOrEven.dll
+C:\Users\rsgoo\Desktop\Codestack\LevelOne\Homework\GoodwinR#6OddOrEven\obj\Debug\net6.0\GoodwinR#6OddOrEven.pdb
+C:\Users\rsgoo\Desktop\Codestack\LevelOne\Homework\GoodwinR#6OddOrEven\obj\Debug\net6.0\GoodwinR#6OddOrEven.genruntimeconfig.cache
+C:\Users\rsgoo\Desktop\Codestack\LevelOne\Homework\GoodwinR#6OddOrEven\obj\Debug\net6.0\ref\GoodwinR#6OddOrEven.dll
